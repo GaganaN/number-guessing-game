@@ -1,1 +1,1 @@
-# simple-game
+# number-game
